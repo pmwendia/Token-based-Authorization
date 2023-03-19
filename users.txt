@@ -1,0 +1,35 @@
+Super user
+
+username: saint
+email: saint_superuser@littlelemon.com
+password: 9G7Jt#Ks3H@f
+
+Manager group
+
+username: Emily-manager
+email: emily@littlelemon.com
+password: F4t&gH8$7Lp
+
+username: manager2
+email: manager2_manager@littlelemon.com
+password: D9z#rC2@5vQ
+
+Delivery crew group
+
+username: Kimdee-delivery
+email: kimdee234@littlelemon.com
+password: M6p@kR3v5Ft
+
+username: delivery2
+email: delivery2_delivery@littlelemon.com
+password: S2b#zN8@fLx
+
+Clients
+
+username: Dalvin-customer
+email: clust@littlelemon.com
+password: T5d#rF8@vN6
+
+username: client2
+email: client2_client@littlelemon.com
+password: H7s@kT4p6Bx
